@@ -38,6 +38,7 @@ class FJConfigure{
     let TitleScrollBackGroundColor:UIColor = UIColor.darkGray
     //指示器颜色
      let IndicatorColor:UIColor = UIColor.gray
-    
+    //标题的默认选中 (不能超过数组的个数)
+    let titleDefaultSelect:Int  = 0;
     
 }

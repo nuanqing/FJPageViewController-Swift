@@ -64,7 +64,7 @@ extension FJTitleScrollView {
             titleButton.addTarget(self, action: #selector(titleButtonClick(button:)), for: UIControlEvents.touchUpInside)
             buttonArray.append(titleButton)
             addSubview(titleButton)
-            if idx == 0 {
+            if idx == configure.titleDefaultSelect {
                 titleButton.isSelected = true
                 if configure.titleScale == true {
                     titleButton.transform = CGAffineTransform.init(scaleX: 1 + configure.titleScaleRange, y: 1 + configure.titleScaleRange)
