@@ -1,11 +1,8 @@
 # FJPageViewController-Swift
 Swift版本
 
->作者：nuanqing
 >
->版本：1.0.0
->
->简介：类似网易新闻，腾讯视频，今日头条等标题的滚动效果控件，可以自己定义效果。
+>简介：一款标题的滚动效果控件，可以自己定义效果。
 >
 
 
@@ -65,4 +62,3 @@ Swift版本
     let titleDefaultSelect:Int  = 0;
 ```
 
-有用的话，不妨给个**Star**吧！~
