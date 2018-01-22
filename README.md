@@ -6,7 +6,7 @@ Swift版本
 >
 
 
-![效果图](https://github.com/nuanqing/FJPageViewController/blob/master/类似网易新闻标题/gif动画.gif)
+![效果图](https://github.com/nuanqing/FJPageViewController-Swift/blob/master/Swift新闻标题/gif动画.gif)
 
 
 基本使用，在控制器中添加以下代码:
